@@ -8,15 +8,16 @@ This project showcases a simple yet practical Retrieval-Augmented Generation (RA
 
 The example demonstrates the core building blocks of a RAG system:
 
-document loading from a web source
-text chunking
-embedding generation
-vector storage and retrieval
-question answering using context-aware prompting
+* document loading from a web source
+* text chunking
+* embedding generation
+* vector storage and retrieval
+* question answering using context-aware prompting
 
 # Technologies Used:
-Python
-LangChain
-Chroma
-OpenRouter
-Wikipedia
+* Python
+* LangChain
+* ChromaDB
+* OpenRouter
+* OpenAI
+* Wikipedia
